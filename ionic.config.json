@@ -1,0 +1,7 @@
+{
+  "name": "hitung",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
